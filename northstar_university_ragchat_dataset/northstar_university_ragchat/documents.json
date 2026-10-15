@@ -1,0 +1,98 @@
+{
+  "dataset_name": "Northstar University RAGChat Dummy Dataset",
+  "dataset_version": "1.0.0",
+  "fictional": true,
+  "description": "Synthetic university policy and campus information for beginner RAG chatbot development.",
+  "documents": [
+    {
+      "document_id": "UNI-001",
+      "title": "Attendance Policy",
+      "category": "academic_policy",
+      "version": "1.0",
+      "effective_date": "2026-07-01",
+      "status": "official",
+      "content": "NORTHSTAR UNIVERSITY\nAttendance Policy\nDocument ID: UNI-001\nVersion: 1.0\nEffective date: 1 July 2026\nStatus: Official fictional policy\n\n1. Minimum attendance\nStudents must maintain at least 75% attendance in each course to qualify for the regular end-semester examination.\n\n2. Attendance calculation\nAttendance percentage is calculated as classes attended divided by total classes conducted for the relevant course, multiplied by 100. Attendance is tracked separately for each course.\n\n3. Medical absence requests\nA student requesting consideration for medical absence must submit a medical certificate and an application to the Academic Office within five working days of returning to class. Submission does not guarantee approval.\n\n4. Attendance shortage\nA student below the minimum attendance threshold must contact the Academic Office to confirm examination eligibility and learn whether any formal remedy is available. Exceptions require written approval from the authorized academic officer.\n\n5. Record correction\nStudents who believe an attendance entry is incorrect should contact the course instructor with the date and supporting details. The instructor reviews the record and forwards approved corrections to the Academic Office.\n\nThis document is fictional and exists only for RAGChat training."
+    },
+    {
+      "document_id": "UNI-002",
+      "title": "Examination Rules",
+      "category": "academic_policy",
+      "version": "1.0",
+      "effective_date": "2026-07-01",
+      "status": "official",
+      "content": "NORTHSTAR UNIVERSITY\nExamination Rules\nDocument ID: UNI-002\nVersion: 1.0\nEffective date: 1 July 2026\nStatus: Official fictional policy\n\n1. Examination eligibility\nTo sit the regular end-semester examination for a course, a student must meet the attendance requirement in UNI-001 and complete any course-specific assessment requirements announced by the instructor.\n\n2. Identification\nStudents must bring their university student identity card to an in-person examination. A student who has forgotten the card should report to the examination supervisor before the examination begins and follow the supervisor's instructions.\n\n3. Arrival time\nStudents should arrive at least 15 minutes before the scheduled start time. Entry after the examination has started is subject to the examination supervisor's decision.\n\n4. Academic integrity\nUnauthorized notes, communication devices used for assistance, or collaboration during an individual examination are prohibited. Suspected violations are referred for review under the Student Code of Conduct (UNI-009).\n\n5. Results and review\nResults are published through the student portal when approved for release. A student who believes a mark was recorded incorrectly may request a clerical review through the Academic Office within seven calendar days of result publication. A clerical review checks recording and calculation; it is not a re-evaluation of academic judgment.\n\nThis document is fictional and exists only for RAGChat training."
+    },
+    {
+      "document_id": "UNI-003",
+      "title": "Grading and Assessment Policy",
+      "category": "academic_policy",
+      "version": "1.0",
+      "effective_date": "2026-07-01",
+      "status": "official",
+      "content": "NORTHSTAR UNIVERSITY\nGrading and Assessment Policy\nDocument ID: UNI-003\nVersion: 1.0\nEffective date: 1 July 2026\nStatus: Official fictional policy\n\n1. Assessment structure\nUnless a course outline states otherwise, a course is assessed through 40 marks of continuous assessment and 60 marks in the end-semester examination, for a total of 100 marks.\n\n2. Passing requirement\nA student must earn at least 40 marks out of 100 overall and at least 24 out of 60 in the end-semester examination to pass a course.\n\n3. Grade bands\nThe default grade bands are:\nA: 85–100\nB: 70–84\nC: 55–69\nD: 40–54\nF: below 40 or failure to meet the minimum end-semester examination requirement.\n\n4. Course-specific rules\nAn approved course outline may define a different assessment structure if it is published to students before assessment begins. Students should consult their current course outline for any approved variation.\n\n5. Grade questions\nQuestions about a grade should first be directed to the course instructor. Requests to correct a clerical error may be submitted under the procedure in UNI-002.\n\nThis document is fictional and exists only for RAGChat training."
+    },
+    {
+      "document_id": "UNI-004",
+      "title": "Course Registration Policy",
+      "category": "academic_policy",
+      "version": "1.0",
+      "effective_date": "2026-07-01",
+      "status": "official",
+      "content": "NORTHSTAR UNIVERSITY\nCourse Registration Policy\nDocument ID: UNI-004\nVersion: 1.0\nEffective date: 1 July 2026\nStatus: Official fictional policy\n\n1. Registration period\nFor the 2026–27 academic year, the standard course registration window for the first semester is 1–10 July 2026. The standard window for the second semester is 2–10 January 2027.\n\n2. Add or drop a course\nStudents may request to add or drop a course through the student portal during the first five calendar days after the relevant semester begins. Approval depends on seat availability, prerequisites, and the program's credit requirements.\n\n3. Prerequisites\nStudents must satisfy the prerequisites listed in the official course catalogue before registering for a course. The registration system may block enrollment when a prerequisite is missing.\n\n4. Credit load\nThe normal semester load is 18–24 credits. Requests to register for fewer than 18 or more than 24 credits must be reviewed by the program coordinator.\n\n5. Registration help\nStudents who encounter a portal error should save a screenshot and contact the Registrar's Office. They should not share their password with staff or other students.\n\nThis document is fictional and exists only for RAGChat training."
+    },
+    {
+      "document_id": "UNI-005",
+      "title": "Tuition Fee and Payment Policy",
+      "category": "finance_policy",
+      "version": "1.0",
+      "effective_date": "2026-07-01",
+      "status": "official",
+      "content": "NORTHSTAR UNIVERSITY\nTuition Fee and Payment Policy\nDocument ID: UNI-005\nVersion: 1.0\nEffective date: 1 July 2026\nStatus: Official fictional policy\n\n1. Undergraduate tuition\nThe standard undergraduate tuition fee is INR 85,000 per semester for the 2026–27 academic year. Program-specific fees, if any, are listed in the student's admission letter.\n\n2. Payment deadlines\nFor the 2026–27 academic year, the standard payment deadline is 15 July 2026 for the first semester and 15 January 2027 for the second semester.\n\n3. Late payment charge\nUnless an approved extension or documented exception applies, a late payment charge of INR 500 is applied after the deadline, followed by INR 100 for each subsequent calendar day that the balance remains unpaid.\n\n4. Payment methods\nStudents can pay through the university student portal using the payment methods displayed there. Students should retain the transaction receipt until the payment appears in their account statement.\n\n5. Fee refunds\nThis policy does not define hostel fee refunds, travel reimbursements, or refunds for optional extracurricular activities. Students seeking information on those topics should contact the Finance Office.\n\nThis document is fictional and exists only for RAGChat training."
+    },
+    {
+      "document_id": "UNI-006",
+      "title": "Scholarship Policy",
+      "category": "student_support",
+      "version": "1.0",
+      "effective_date": "2026-07-01",
+      "status": "official",
+      "content": "NORTHSTAR UNIVERSITY\nScholarship Policy\nDocument ID: UNI-006\nVersion: 1.0\nEffective date: 1 July 2026\nStatus: Official fictional policy\n\n1. Merit scholarship eligibility\nNew undergraduate students with a score of at least 90% in the qualifying examination may apply for the Northstar Merit Scholarship. Meeting the threshold permits an application but does not guarantee an award.\n\n2. Scholarship value\nThe standard Northstar Merit Scholarship covers 25% of undergraduate tuition for one academic year. It does not automatically cover accommodation, meals, transport, or other personal expenses.\n\n3. Application documents\nApplicants must submit the scholarship form, qualifying examination result, proof of admission, and a student identity document through the scholarship portal by the deadline shown on that portal.\n\n4. Renewal\nRenewal is assessed annually. Students must maintain a cumulative GPA of at least 3.5 on the university's 4.0 scale and complete all required credits for the academic year. Renewal remains subject to verification and available funding.\n\n5. Other financial aid\nThis document describes only the Northstar Merit Scholarship. It does not specify eligibility or amounts for need-based grants, emergency loans, or external scholarships. Contact the Student Support Office for those programs.\n\nThis document is fictional and exists only for RAGChat training."
+    },
+    {
+      "document_id": "UNI-007",
+      "title": "Student Leave and Absence Procedure",
+      "category": "student_support",
+      "version": "1.0",
+      "effective_date": "2026-07-01",
+      "status": "official",
+      "content": "NORTHSTAR UNIVERSITY\nStudent Leave and Absence Procedure\nDocument ID: UNI-007\nVersion: 1.0\nEffective date: 1 July 2026\nStatus: Official fictional policy\n\n1. Planned absence\nStudents expecting to miss classes should inform the course instructor in advance where possible. Informing an instructor does not automatically convert an absence into attended class time.\n\n2. Medical absence\nA student seeking consideration for medical absence must submit a medical certificate and application to the Academic Office within five working days of returning to class. The request is reviewed individually and may be approved or declined.\n\n3. Personal leave\nStudents may submit a personal leave request to the program coordinator. Approval depends on the circumstances and does not guarantee an attendance exemption.\n\n4. Supporting documents\nStudents should provide documents that are relevant to the request and should submit them through the official student portal or directly to the office named in the relevant procedure. Students should not send sensitive medical details to unrelated staff.\n\n5. Attendance impact\nApproved leave does not automatically change the attendance percentage. Attendance records and examination eligibility remain governed by UNI-001 and UNI-002.\n\nThis document is fictional and exists only for RAGChat training."
+    },
+    {
+      "document_id": "UNI-008",
+      "title": "Library and Campus Facilities Guide",
+      "category": "campus_services",
+      "version": "1.0",
+      "effective_date": "2026-07-01",
+      "status": "official",
+      "content": "NORTHSTAR UNIVERSITY\nLibrary and Campus Facilities Guide\nDocument ID: UNI-008\nVersion: 1.0\nEffective date: 1 July 2026\nStatus: Official fictional guide\n\n1. Main library hours\nDuring teaching weeks, the main library is open Monday through Friday from 08:00 to 20:00 and Saturday from 09:00 to 16:00. It is closed on Sundays and published university holidays.\n\n2. Borrowing books\nUndergraduate students may borrow up to four books at a time for 14 calendar days. Books may be renewed once if no other user has reserved them.\n\n3. Computer laboratories\nThe general computer laboratories are open Monday through Friday from 09:00 to 18:00 during teaching weeks. Access may be restricted during scheduled classes, maintenance, or examinations.\n\n4. Student help desk\nThe campus help desk is located in the Student Services Building and operates Monday through Friday from 09:00 to 17:00, excluding published university holidays.\n\n5. Accessibility and equipment\nStudents who need accessible study arrangements or specialized equipment should contact Student Services at least three working days before the intended visit. Availability must be confirmed by the office.\n\nThis document is fictional and exists only for RAGChat training."
+    },
+    {
+      "document_id": "UNI-009",
+      "title": "Student Code of Conduct",
+      "category": "student_policy",
+      "version": "1.0",
+      "effective_date": "2026-07-01",
+      "status": "official",
+      "content": "NORTHSTAR UNIVERSITY\nStudent Code of Conduct\nDocument ID: UNI-009\nVersion: 1.0\nEffective date: 1 July 2026\nStatus: Official fictional policy\n\n1. Respectful conduct\nStudents are expected to treat other students, staff, visitors, and campus workers respectfully and must not engage in harassment, threats, or discriminatory conduct.\n\n2. Academic integrity\nPlagiarism, fabrication of academic work, unauthorized collaboration, and use of prohibited materials during assessments are academic integrity violations.\n\n3. Reporting a concern\nA student may report a concern to the Student Conduct Office or through the official student portal. Reports should include a clear description of the incident and any relevant evidence. Reports are handled confidentially to the extent possible under the review process.\n\n4. Review process\nThe university reviews reported concerns before deciding whether a policy violation occurred. Students involved in a review will be informed of the applicable process and given an opportunity to respond.\n\n5. Possible outcomes\nDepending on the findings and severity, outcomes may include an educational warning, required training, a formal reprimand, or suspension under the university's disciplinary procedure. No outcome is automatic; decisions depend on the case.\n\nThis document is fictional and exists only for RAGChat training."
+    },
+    {
+      "document_id": "UNI-010",
+      "title": "Academic Calendar 2026–27",
+      "category": "academic_calendar",
+      "version": "1.0",
+      "effective_date": "2026-07-01",
+      "status": "official",
+      "content": "NORTHSTAR UNIVERSITY\nAcademic Calendar 2026–27\nDocument ID: UNI-010\nVersion: 1.0\nEffective date: 1 July 2026\nStatus: Official fictional calendar\n\n1. First semester\nThe first semester begins on 20 July 2026. The teaching period runs from 20 July through 20 November 2026. The regular end-semester examination period is scheduled for 30 November through 12 December 2026.\n\n2. Second semester\nThe second semester begins on 18 January 2027. The teaching period runs from 18 January through 21 May 2027. The regular end-semester examination period is scheduled for 31 May through 12 June 2027.\n\n3. Mid-semester break\nThe scheduled mid-semester break for the first semester is 12–16 October 2026. The scheduled mid-semester break for the second semester is 15–19 March 2027.\n\n4. Public holidays and updates\nIndividual public holidays and any calendar changes are announced through the student portal. Students should check the portal for the latest notices before making travel plans.\n\n5. Calendar scope\nThis calendar lists the main semester dates. It does not list every course-specific deadline, assignment due date, or individual examination timetable. Those details are published separately by the relevant department or instructor.\n\nThis document is fictional and exists only for RAGChat training."
+    }
+  ]
+}

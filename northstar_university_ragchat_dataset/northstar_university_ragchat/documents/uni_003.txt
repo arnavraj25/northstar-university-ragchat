@@ -1,0 +1,28 @@
+NORTHSTAR UNIVERSITY
+Grading and Assessment Policy
+Document ID: UNI-003
+Version: 1.0
+Effective date: 1 July 2026
+Status: Official fictional policy
+
+1. Assessment structure
+Unless a course outline states otherwise, a course is assessed through 40 marks of continuous assessment and 60 marks in the end-semester examination, for a total of 100 marks.
+
+2. Passing requirement
+A student must earn at least 40 marks out of 100 overall and at least 24 out of 60 in the end-semester examination to pass a course.
+
+3. Grade bands
+The default grade bands are:
+A: 85–100
+B: 70–84
+C: 55–69
+D: 40–54
+F: below 40 or failure to meet the minimum end-semester examination requirement.
+
+4. Course-specific rules
+An approved course outline may define a different assessment structure if it is published to students before assessment begins. Students should consult their current course outline for any approved variation.
+
+5. Grade questions
+Questions about a grade should first be directed to the course instructor. Requests to correct a clerical error may be submitted under the procedure in UNI-002.
+
+This document is fictional and exists only for RAGChat training.

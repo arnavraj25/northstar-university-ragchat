@@ -1,0 +1,23 @@
+NORTHSTAR UNIVERSITY
+Course Registration Policy
+Document ID: UNI-004
+Version: 1.0
+Effective date: 1 July 2026
+Status: Official fictional policy
+
+1. Registration period
+For the 2026–27 academic year, the standard course registration window for the first semester is 1–10 July 2026. The standard window for the second semester is 2–10 January 2027.
+
+2. Add or drop a course
+Students may request to add or drop a course through the student portal during the first five calendar days after the relevant semester begins. Approval depends on seat availability, prerequisites, and the program's credit requirements.
+
+3. Prerequisites
+Students must satisfy the prerequisites listed in the official course catalogue before registering for a course. The registration system may block enrollment when a prerequisite is missing.
+
+4. Credit load
+The normal semester load is 18–24 credits. Requests to register for fewer than 18 or more than 24 credits must be reviewed by the program coordinator.
+
+5. Registration help
+Students who encounter a portal error should save a screenshot and contact the Registrar's Office. They should not share their password with staff or other students.
+
+This document is fictional and exists only for RAGChat training.

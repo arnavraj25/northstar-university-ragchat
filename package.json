@@ -1,0 +1,22 @@
+{
+  "name": "northstar-rag-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local-first Northstar University policy assistant with RAG",
+  "workspaces": [
+    "frontend"
+  ],
+  "scripts": {
+    "dev": "concurrently -k -n RAG,API,WEB -c magenta,blue,green \"python -m uvicorn rag_engine:app --app-dir backend --host 127.0.0.1 --port 8001\" \"node backend/server.js\" \"npm run dev --workspace frontend -- --host 127.0.0.1\"",
+    "start": "node backend/server.js",
+    "build": "npm run build --workspace frontend"
+  },
+  "dependencies": {
+    "concurrently": "^9.2.1",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "express-rate-limit": "^8.1.0",
+    "helmet": "^8.1.0",
+    "multer": "^2.0.2"
+  }
+}

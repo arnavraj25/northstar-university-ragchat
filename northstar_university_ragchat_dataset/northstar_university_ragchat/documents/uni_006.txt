@@ -1,0 +1,23 @@
+NORTHSTAR UNIVERSITY
+Scholarship Policy
+Document ID: UNI-006
+Version: 1.0
+Effective date: 1 July 2026
+Status: Official fictional policy
+
+1. Merit scholarship eligibility
+New undergraduate students with a score of at least 90% in the qualifying examination may apply for the Northstar Merit Scholarship. Meeting the threshold permits an application but does not guarantee an award.
+
+2. Scholarship value
+The standard Northstar Merit Scholarship covers 25% of undergraduate tuition for one academic year. It does not automatically cover accommodation, meals, transport, or other personal expenses.
+
+3. Application documents
+Applicants must submit the scholarship form, qualifying examination result, proof of admission, and a student identity document through the scholarship portal by the deadline shown on that portal.
+
+4. Renewal
+Renewal is assessed annually. Students must maintain a cumulative GPA of at least 3.5 on the university's 4.0 scale and complete all required credits for the academic year. Renewal remains subject to verification and available funding.
+
+5. Other financial aid
+This document describes only the Northstar Merit Scholarship. It does not specify eligibility or amounts for need-based grants, emergency loans, or external scholarships. Contact the Student Support Office for those programs.
+
+This document is fictional and exists only for RAGChat training.

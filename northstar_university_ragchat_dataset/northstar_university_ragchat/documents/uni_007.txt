@@ -1,0 +1,23 @@
+NORTHSTAR UNIVERSITY
+Student Leave and Absence Procedure
+Document ID: UNI-007
+Version: 1.0
+Effective date: 1 July 2026
+Status: Official fictional policy
+
+1. Planned absence
+Students expecting to miss classes should inform the course instructor in advance where possible. Informing an instructor does not automatically convert an absence into attended class time.
+
+2. Medical absence
+A student seeking consideration for medical absence must submit a medical certificate and application to the Academic Office within five working days of returning to class. The request is reviewed individually and may be approved or declined.
+
+3. Personal leave
+Students may submit a personal leave request to the program coordinator. Approval depends on the circumstances and does not guarantee an attendance exemption.
+
+4. Supporting documents
+Students should provide documents that are relevant to the request and should submit them through the official student portal or directly to the office named in the relevant procedure. Students should not send sensitive medical details to unrelated staff.
+
+5. Attendance impact
+Approved leave does not automatically change the attendance percentage. Attendance records and examination eligibility remain governed by UNI-001 and UNI-002.
+
+This document is fictional and exists only for RAGChat training.

@@ -1,0 +1,23 @@
+NORTHSTAR UNIVERSITY
+Student Code of Conduct
+Document ID: UNI-009
+Version: 1.0
+Effective date: 1 July 2026
+Status: Official fictional policy
+
+1. Respectful conduct
+Students are expected to treat other students, staff, visitors, and campus workers respectfully and must not engage in harassment, threats, or discriminatory conduct.
+
+2. Academic integrity
+Plagiarism, fabrication of academic work, unauthorized collaboration, and use of prohibited materials during assessments are academic integrity violations.
+
+3. Reporting a concern
+A student may report a concern to the Student Conduct Office or through the official student portal. Reports should include a clear description of the incident and any relevant evidence. Reports are handled confidentially to the extent possible under the review process.
+
+4. Review process
+The university reviews reported concerns before deciding whether a policy violation occurred. Students involved in a review will be informed of the applicable process and given an opportunity to respond.
+
+5. Possible outcomes
+Depending on the findings and severity, outcomes may include an educational warning, required training, a formal reprimand, or suspension under the university's disciplinary procedure. No outcome is automatic; decisions depend on the case.
+
+This document is fictional and exists only for RAGChat training.

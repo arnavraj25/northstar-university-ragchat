@@ -1,0 +1,13 @@
+NORTHSTAR UNIVERSITY — RAGCHAT TEST FIXTURE ONLY
+Document ID: TEST-CONFLICT-001
+Title: Deliberately Conflicting Tuition Fee Snippet
+Status: TEST FIXTURE — NOT OFFICIAL — DO NOT TREAT AS A VALID POLICY
+Created for: Testing contradiction detection in a RAG chatbot
+Related official document: UNI-005
+
+TEST CONTENT:
+This deliberately incorrect test snippet states: "The standard undergraduate tuition fee is INR 90,000 per semester for the 2026–27 academic year."
+
+IMPORTANT:
+This statement intentionally conflicts with official fictional policy UNI-005, which states INR 85,000 per semester.
+The chatbot should identify the disagreement, cite both source IDs, and prefer the document marked status=official over this fixture marked status=test_fixture. Do not merge this fixture into the official documents directory unless running the contradiction test.

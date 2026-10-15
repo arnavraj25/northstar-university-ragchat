@@ -1,0 +1,23 @@
+NORTHSTAR UNIVERSITY
+Library and Campus Facilities Guide
+Document ID: UNI-008
+Version: 1.0
+Effective date: 1 July 2026
+Status: Official fictional guide
+
+1. Main library hours
+During teaching weeks, the main library is open Monday through Friday from 08:00 to 20:00 and Saturday from 09:00 to 16:00. It is closed on Sundays and published university holidays.
+
+2. Borrowing books
+Undergraduate students may borrow up to four books at a time for 14 calendar days. Books may be renewed once if no other user has reserved them.
+
+3. Computer laboratories
+The general computer laboratories are open Monday through Friday from 09:00 to 18:00 during teaching weeks. Access may be restricted during scheduled classes, maintenance, or examinations.
+
+4. Student help desk
+The campus help desk is located in the Student Services Building and operates Monday through Friday from 09:00 to 17:00, excluding published university holidays.
+
+5. Accessibility and equipment
+Students who need accessible study arrangements or specialized equipment should contact Student Services at least three working days before the intended visit. Availability must be confirmed by the office.
+
+This document is fictional and exists only for RAGChat training.

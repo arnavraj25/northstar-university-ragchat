@@ -1,0 +1,313 @@
+{
+  "dataset_name": "Northstar University RAGChat Evaluation Set",
+  "dataset_version": "1.0.0",
+  "fictional": true,
+  "notes": "Beginner-level test questions. Expected answers are reference answers, not the only acceptable wording. source_document_ids identify documents that should support the answer or missing-information decision.",
+  "tests": [
+    {
+      "test_id": "Q001",
+      "type": "direct",
+      "question": "What is the minimum attendance required to qualify for regular end-semester exams?",
+      "expected_answer": "Students must maintain at least 75% attendance in each course.",
+      "source_document_ids": [
+        "UNI-001"
+      ],
+      "expected_behavior": "Answer directly and cite UNI-001."
+    },
+    {
+      "test_id": "Q002",
+      "type": "direct",
+      "question": "How is attendance percentage calculated?",
+      "expected_answer": "Divide classes attended by total classes conducted for the course, then multiply by 100.",
+      "source_document_ids": [
+        "UNI-001"
+      ],
+      "expected_behavior": "Answer directly and cite UNI-001."
+    },
+    {
+      "test_id": "Q003",
+      "type": "direct",
+      "question": "How soon after returning to class must I submit medical absence documents?",
+      "expected_answer": "Within five working days of returning to class.",
+      "source_document_ids": [
+        "UNI-001",
+        "UNI-007"
+      ],
+      "expected_behavior": "Answer and cite the relevant policy."
+    },
+    {
+      "test_id": "Q004",
+      "type": "direct",
+      "question": "What must I bring to an in-person exam?",
+      "expected_answer": "A university student identity card. If forgotten, report to the examination supervisor before the exam begins and follow their instructions.",
+      "source_document_ids": [
+        "UNI-002"
+      ],
+      "expected_behavior": "Answer based on the examination rules."
+    },
+    {
+      "test_id": "Q005",
+      "type": "direct",
+      "question": "How early should I arrive for an exam?",
+      "expected_answer": "At least 15 minutes before the scheduled start time.",
+      "source_document_ids": [
+        "UNI-002"
+      ],
+      "expected_behavior": "Answer directly and cite UNI-002."
+    },
+    {
+      "test_id": "Q006",
+      "type": "direct",
+      "question": "What is the default assessment split for a course?",
+      "expected_answer": "40 marks of continuous assessment and 60 marks for the end-semester examination, unless the course outline states otherwise.",
+      "source_document_ids": [
+        "UNI-003"
+      ],
+      "expected_behavior": "Include the exception and cite UNI-003."
+    },
+    {
+      "test_id": "Q007",
+      "type": "direct",
+      "question": "What are the minimum passing marks?",
+      "expected_answer": "At least 40 out of 100 overall and at least 24 out of 60 in the end-semester examination.",
+      "source_document_ids": [
+        "UNI-003"
+      ],
+      "expected_behavior": "Mention both conditions."
+    },
+    {
+      "test_id": "Q008",
+      "type": "direct",
+      "question": "When is the first-semester course registration window?",
+      "expected_answer": "1–10 July 2026.",
+      "source_document_ids": [
+        "UNI-004"
+      ],
+      "expected_behavior": "Answer directly and cite UNI-004."
+    },
+    {
+      "test_id": "Q009",
+      "type": "direct",
+      "question": "What is the normal semester credit load?",
+      "expected_answer": "18–24 credits. Requests outside that range must be reviewed by the program coordinator.",
+      "source_document_ids": [
+        "UNI-004"
+      ],
+      "expected_behavior": "Include review requirement."
+    },
+    {
+      "test_id": "Q010",
+      "type": "direct",
+      "question": "What is the standard undergraduate tuition fee per semester?",
+      "expected_answer": "INR 85,000 per semester for the 2026–27 academic year, subject to any program-specific fee in the admission letter.",
+      "source_document_ids": [
+        "UNI-005"
+      ],
+      "expected_behavior": "Answer and cite UNI-005."
+    },
+    {
+      "test_id": "Q011",
+      "type": "direct",
+      "question": "What is the late payment charge?",
+      "expected_answer": "INR 500 after the deadline, followed by INR 100 for each subsequent calendar day the balance remains unpaid, unless an approved extension or documented exception applies.",
+      "source_document_ids": [
+        "UNI-005"
+      ],
+      "expected_behavior": "Include both amounts and the exception."
+    },
+    {
+      "test_id": "Q012",
+      "type": "direct",
+      "question": "What score is needed to apply for the Northstar Merit Scholarship?",
+      "expected_answer": "At least 90% in the qualifying examination. Meeting the threshold allows an application but does not guarantee an award.",
+      "source_document_ids": [
+        "UNI-006"
+      ],
+      "expected_behavior": "Do not imply automatic scholarship approval."
+    },
+    {
+      "test_id": "Q013",
+      "type": "direct",
+      "question": "How much tuition does the Northstar Merit Scholarship cover?",
+      "expected_answer": "25% of undergraduate tuition for one academic year. It does not automatically cover accommodation, meals, transport, or other personal expenses.",
+      "source_document_ids": [
+        "UNI-006"
+      ],
+      "expected_behavior": "Answer and cite UNI-006."
+    },
+    {
+      "test_id": "Q014",
+      "type": "direct",
+      "question": "What GPA is needed to renew the merit scholarship?",
+      "expected_answer": "A cumulative GPA of at least 3.5 on the university's 4.0 scale, plus completion of all required credits for the academic year. Renewal is subject to verification and available funding.",
+      "source_document_ids": [
+        "UNI-006"
+      ],
+      "expected_behavior": "Mention both criteria."
+    },
+    {
+      "test_id": "Q015",
+      "type": "direct",
+      "question": "When is the main library open on Saturdays?",
+      "expected_answer": "09:00 to 16:00 during teaching weeks, except published university holidays.",
+      "source_document_ids": [
+        "UNI-008"
+      ],
+      "expected_behavior": "Answer with time and condition."
+    },
+    {
+      "test_id": "Q016",
+      "type": "direct",
+      "question": "How many books can an undergraduate borrow and for how long?",
+      "expected_answer": "Up to four books at a time for 14 calendar days. A book may be renewed once if nobody else has reserved it.",
+      "source_document_ids": [
+        "UNI-008"
+      ],
+      "expected_behavior": "Include renewal condition."
+    },
+    {
+      "test_id": "Q017",
+      "type": "direct",
+      "question": "What should I do if I want to report misconduct?",
+      "expected_answer": "Report the concern to the Student Conduct Office or through the official student portal, including a clear description and relevant evidence.",
+      "source_document_ids": [
+        "UNI-009"
+      ],
+      "expected_behavior": "Answer and cite UNI-009."
+    },
+    {
+      "test_id": "Q018",
+      "type": "direct",
+      "question": "When does the first semester begin?",
+      "expected_answer": "20 July 2026.",
+      "source_document_ids": [
+        "UNI-010"
+      ],
+      "expected_behavior": "Answer directly and cite UNI-010."
+    },
+    {
+      "test_id": "Q019",
+      "type": "direct",
+      "question": "When are first-semester end-semester exams scheduled?",
+      "expected_answer": "30 November through 12 December 2026.",
+      "source_document_ids": [
+        "UNI-010"
+      ],
+      "expected_behavior": "Answer directly and cite UNI-010."
+    },
+    {
+      "test_id": "Q020",
+      "type": "direct",
+      "question": "Can approved medical leave automatically increase my attendance percentage?",
+      "expected_answer": "No. Approved leave does not automatically change the attendance percentage. Attendance and examination eligibility remain governed by UNI-001 and UNI-002.",
+      "source_document_ids": [
+        "UNI-007",
+        "UNI-001",
+        "UNI-002"
+      ],
+      "expected_behavior": "Do not promise an attendance adjustment."
+    },
+    {
+      "test_id": "Q021",
+      "type": "missing_information",
+      "question": "What is the exact hostel fee refund percentage?",
+      "expected_answer": "The provided documents do not specify a hostel fee refund percentage. Contact the Finance Office for authoritative information.",
+      "source_document_ids": [
+        "UNI-005"
+      ],
+      "expected_behavior": "Do not invent a percentage; state that information is missing."
+    },
+    {
+      "test_id": "Q022",
+      "type": "missing_information",
+      "question": "What is the university's need-based grant amount?",
+      "expected_answer": "The provided documents do not specify the eligibility or amount for need-based grants. Contact the Student Support Office.",
+      "source_document_ids": [
+        "UNI-006"
+      ],
+      "expected_behavior": "Abstain from inventing an amount."
+    },
+    {
+      "test_id": "Q023",
+      "type": "missing_information",
+      "question": "What is the Wi-Fi password for students?",
+      "expected_answer": "The provided documents do not contain the student Wi-Fi password. Contact the campus help desk or Student Services.",
+      "source_document_ids": [
+        "UNI-008"
+      ],
+      "expected_behavior": "Do not generate or guess a password."
+    },
+    {
+      "test_id": "Q024",
+      "type": "missing_information",
+      "question": "What is the exact date of my individual database exam?",
+      "expected_answer": "The academic calendar does not list individual examination timetables. Check the student portal or contact the relevant department/instructor.",
+      "source_document_ids": [
+        "UNI-010"
+      ],
+      "expected_behavior": "Explain that the exact timetable is not in this dataset."
+    },
+    {
+      "test_id": "Q025",
+      "type": "missing_information",
+      "question": "Does the university guarantee a scholarship to every student scoring 90%?",
+      "expected_answer": "No. A score of at least 90% makes a student eligible to apply, but it does not guarantee an award.",
+      "source_document_ids": [
+        "UNI-006"
+      ],
+      "expected_behavior": "Avoid turning eligibility into a guarantee."
+    },
+    {
+      "test_id": "Q026",
+      "type": "simple_multi_fact",
+      "question": "What attendance do I need for exams, and how long do I have to submit medical documents?",
+      "expected_answer": "At least 75% attendance in each course is required for regular end-semester exam eligibility. Medical absence documents must be submitted within five working days of returning to class.",
+      "source_document_ids": [
+        "UNI-001",
+        "UNI-007"
+      ],
+      "expected_behavior": "Retrieve and combine both facts."
+    },
+    {
+      "test_id": "Q027",
+      "type": "simple_multi_fact",
+      "question": "What are the first-semester start date and exam period?",
+      "expected_answer": "The first semester begins on 20 July 2026, and the regular end-semester examination period is 30 November through 12 December 2026.",
+      "source_document_ids": [
+        "UNI-010"
+      ],
+      "expected_behavior": "Answer both parts."
+    },
+    {
+      "test_id": "Q028",
+      "type": "simple_multi_fact",
+      "question": "What happens if I forget my student ID before an exam, and how early should I arrive?",
+      "expected_answer": "Arrive at least 15 minutes before the scheduled start. If you forgot your ID, report to the examination supervisor before the exam begins and follow their instructions.",
+      "source_document_ids": [
+        "UNI-002"
+      ],
+      "expected_behavior": "Combine two facts from one document."
+    },
+    {
+      "test_id": "Q029",
+      "type": "policy_boundary",
+      "question": "If I submit a medical certificate, will my attendance shortage definitely be waived?",
+      "expected_answer": "No. Submitting a medical certificate and application within five working days allows the request to be considered but does not guarantee approval. Exceptions require written approval from the authorized academic officer.",
+      "source_document_ids": [
+        "UNI-001",
+        "UNI-007"
+      ],
+      "expected_behavior": "State the policy boundary clearly."
+    },
+    {
+      "test_id": "Q030",
+      "type": "policy_boundary",
+      "question": "Can I register for 27 credits without review?",
+      "expected_answer": "No. The normal semester load is 18–24 credits. A request to register for more than 24 credits must be reviewed by the program coordinator.",
+      "source_document_ids": [
+        "UNI-004"
+      ],
+      "expected_behavior": "Apply the documented threshold."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+NORTHSTAR UNIVERSITY
+Examination Rules
+Document ID: UNI-002
+Version: 1.0
+Effective date: 1 July 2026
+Status: Official fictional policy
+
+1. Examination eligibility
+To sit the regular end-semester examination for a course, a student must meet the attendance requirement in UNI-001 and complete any course-specific assessment requirements announced by the instructor.
+
+2. Identification
+Students must bring their university student identity card to an in-person examination. A student who has forgotten the card should report to the examination supervisor before the examination begins and follow the supervisor's instructions.
+
+3. Arrival time
+Students should arrive at least 15 minutes before the scheduled start time. Entry after the examination has started is subject to the examination supervisor's decision.
+
+4. Academic integrity
+Unauthorized notes, communication devices used for assistance, or collaboration during an individual examination are prohibited. Suspected violations are referred for review under the Student Code of Conduct (UNI-009).
+
+5. Results and review
+Results are published through the student portal when approved for release. A student who believes a mark was recorded incorrectly may request a clerical review through the Academic Office within seven calendar days of result publication. A clerical review checks recording and calculation; it is not a re-evaluation of academic judgment.
+
+This document is fictional and exists only for RAGChat training.

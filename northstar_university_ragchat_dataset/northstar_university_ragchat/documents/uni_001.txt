@@ -1,0 +1,23 @@
+NORTHSTAR UNIVERSITY
+Attendance Policy
+Document ID: UNI-001
+Version: 1.0
+Effective date: 1 July 2026
+Status: Official fictional policy
+
+1. Minimum attendance
+Students must maintain at least 75% attendance in each course to qualify for the regular end-semester examination.
+
+2. Attendance calculation
+Attendance percentage is calculated as classes attended divided by total classes conducted for the relevant course, multiplied by 100. Attendance is tracked separately for each course.
+
+3. Medical absence requests
+A student requesting consideration for medical absence must submit a medical certificate and an application to the Academic Office within five working days of returning to class. Submission does not guarantee approval.
+
+4. Attendance shortage
+A student below the minimum attendance threshold must contact the Academic Office to confirm examination eligibility and learn whether any formal remedy is available. Exceptions require written approval from the authorized academic officer.
+
+5. Record correction
+Students who believe an attendance entry is incorrect should contact the course instructor with the date and supporting details. The instructor reviews the record and forwards approved corrections to the Academic Office.
+
+This document is fictional and exists only for RAGChat training.

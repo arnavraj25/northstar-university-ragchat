@@ -1,0 +1,11 @@
+document_id,title,category,version,effective_date,status,filename
+UNI-001,Attendance Policy,academic_policy,1.0,2026-07-01,official,documents/uni_001.txt
+UNI-002,Examination Rules,academic_policy,1.0,2026-07-01,official,documents/uni_002.txt
+UNI-003,Grading and Assessment Policy,academic_policy,1.0,2026-07-01,official,documents/uni_003.txt
+UNI-004,Course Registration Policy,academic_policy,1.0,2026-07-01,official,documents/uni_004.txt
+UNI-005,Tuition Fee and Payment Policy,finance_policy,1.0,2026-07-01,official,documents/uni_005.txt
+UNI-006,Scholarship Policy,student_support,1.0,2026-07-01,official,documents/uni_006.txt
+UNI-007,Student Leave and Absence Procedure,student_support,1.0,2026-07-01,official,documents/uni_007.txt
+UNI-008,Library and Campus Facilities Guide,campus_services,1.0,2026-07-01,official,documents/uni_008.txt
+UNI-009,Student Code of Conduct,student_policy,1.0,2026-07-01,official,documents/uni_009.txt
+UNI-010,Academic Calendar 2026–27,academic_calendar,1.0,2026-07-01,official,documents/uni_010.txt

@@ -1,0 +1,23 @@
+NORTHSTAR UNIVERSITY
+Tuition Fee and Payment Policy
+Document ID: UNI-005
+Version: 1.0
+Effective date: 1 July 2026
+Status: Official fictional policy
+
+1. Undergraduate tuition
+The standard undergraduate tuition fee is INR 85,000 per semester for the 2026–27 academic year. Program-specific fees, if any, are listed in the student's admission letter.
+
+2. Payment deadlines
+For the 2026–27 academic year, the standard payment deadline is 15 July 2026 for the first semester and 15 January 2027 for the second semester.
+
+3. Late payment charge
+Unless an approved extension or documented exception applies, a late payment charge of INR 500 is applied after the deadline, followed by INR 100 for each subsequent calendar day that the balance remains unpaid.
+
+4. Payment methods
+Students can pay through the university student portal using the payment methods displayed there. Students should retain the transaction receipt until the payment appears in their account statement.
+
+5. Fee refunds
+This policy does not define hostel fee refunds, travel reimbursements, or refunds for optional extracurricular activities. Students seeking information on those topics should contact the Finance Office.
+
+This document is fictional and exists only for RAGChat training.

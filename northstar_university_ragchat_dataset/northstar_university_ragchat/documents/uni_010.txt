@@ -1,0 +1,23 @@
+NORTHSTAR UNIVERSITY
+Academic Calendar 2026–27
+Document ID: UNI-010
+Version: 1.0
+Effective date: 1 July 2026
+Status: Official fictional calendar
+
+1. First semester
+The first semester begins on 20 July 2026. The teaching period runs from 20 July through 20 November 2026. The regular end-semester examination period is scheduled for 30 November through 12 December 2026.
+
+2. Second semester
+The second semester begins on 18 January 2027. The teaching period runs from 18 January through 21 May 2027. The regular end-semester examination period is scheduled for 31 May through 12 June 2027.
+
+3. Mid-semester break
+The scheduled mid-semester break for the first semester is 12–16 October 2026. The scheduled mid-semester break for the second semester is 15–19 March 2027.
+
+4. Public holidays and updates
+Individual public holidays and any calendar changes are announced through the student portal. Students should check the portal for the latest notices before making travel plans.
+
+5. Calendar scope
+This calendar lists the main semester dates. It does not list every course-specific deadline, assignment due date, or individual examination timetable. Those details are published separately by the relevant department or instructor.
+
+This document is fictional and exists only for RAGChat training.
