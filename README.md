@@ -44,6 +44,8 @@ ollama pull nomic-embed-text
 
 Keep Ollama running and restart the app. The default chat model is `nemotron-mini:latest`; set `OLLAMA_CHAT_MODEL` to choose another installed chat model. Chat and embedding models are detected independently. The service uses a cached Sentence-Transformers model first, then Ollama embeddings if the configured embedding model is installed, otherwise the SQLite-backed local fallback. Configure `OLLAMA_URL`, `OLLAMA_CHAT_MODEL`, `OLLAMA_EMBED_MODEL`, `SENTENCE_TRANSFORMER_MODEL`, `USE_SENTENCE_TRANSFORMERS`, `PORT`, or `RAG_DATA_DIR` with environment variables.
 
+Questions that can be answered directly from a matching source passage use local evidence extraction instead of waiting for model generation. Ollama is kept loaded for 30 minutes after use, and model-generated answers are limited to 128 tokens to keep responses concise.
+
 ## Features
 
 - Search the official seed policies and upload PDF/TXT/MD/CSV/JSON files. Source management includes metadata, full document/chunk detail, re-indexing, and deletion of both the retained original and its indexed passages.
